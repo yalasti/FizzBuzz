@@ -1,0 +1,36 @@
+h1 {
+	text-align: center;
+	color: #585653;
+}
+
+strong {
+	color: #E23737;
+}
+
+fieldset {
+	border-radius: 10px;
+	border: 3px solid #585653;
+	width: 500px;
+}
+
+#enter-a-number fieldset {
+	border: none;
+}
+
+#enter-a-number input {
+	width: 75%;
+	display: block;
+	padding: 10px;
+	font-size: 12px;
+	clear: both;
+}
+
+#enter-a-number button {
+	display: block;
+	padding: 10px;
+	font-size: 10px;
+	clear: both;
+}
+html{
+	background: #6edda2;
+}
